@@ -1,0 +1,22 @@
+[Event "Computer chess game"]
+[Site "paul-ThinkPad-P53"]
+[Date "2020.11.28"]
+[Round "?"]
+[White "paul"]
+[Black "paul"]
+[Result "*"]
+[BlackElo "2400"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Time "11:36:46"]
+[Variation "Alapin, 2...d5 3.exd5 Qxd5 4.d4 Nc6 5.Nf3 Bg4"]
+[WhiteElo "2400"]
+[TimeControl "40/1800:40/1800:1800"]
+[Termination "unterminated"]
+[PlyCount "16"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d5 4. exd5 Qxd5 5. d4 Bg4 6. Be2 e6 7. O-O Nf6 8.
+Be3 cxd4 *
+
